@@ -1,0 +1,984 @@
+    1  ll
+    2  clear
+    3  exit 
+    4  ll
+    5  clear
+    6  su 
+    7  su
+    8  pwd
+    9  clear
+   10  lsb_release -a
+   11  clear
+   12  sudo apt-get install lsb-release 
+   13  lsb_release -a
+   14  clear
+   15  su 
+   16  clear
+   17  sudo passwd root 
+   18  clear
+   19  su
+   20  sudo apt install chromium-browser
+   21  clear
+   22  vlc
+   23  clear
+   24  ps aux | grep vlc
+   25  sudo kill 7716
+   26  ps
+   27  clear
+   28  vlc
+   29  clear
+   30  ps
+   31  pkill vlc
+   32  clear
+   33  cd /
+   34  pwd
+   35  cd etc/
+   36  ll
+   37  cd ..
+   38  clear
+   39  ll
+   40  cd bin
+   41  ll
+   42  clear
+   43  ll
+   44  clear
+   45  cd ..
+   46  cd usr/
+   47  ll
+   48  cd bin/
+   49  ll
+   50  clear
+   51  grep vlc
+   52  clear
+   53  cd
+   54  pwd
+   55  cd /
+   56  clear
+   57  ll usr/share/icons/
+   58  ll usr/share/icons/gnome/
+   59  ll usr/share/icons/ubuntu-mono-da
+   60  ll usr/share/icons/ubuntu-mono-dark/
+   61  ll usr/share/icons/ubuntu-mono-dark/icon-theme.cache 
+   62  clear
+   63  cat usr/share/icons/ubuntu-mono-dark/icon-theme.cache 
+   64  clear
+   65  grep vlc usr/share/icons/
+   66  grep vlc usr/share/icons
+   67  clear
+   68  du
+   69  cl
+   70  clear
+   71  lspci
+   72  lspci -v
+   73  lspci -v | less
+   74  lsshw
+   75  lshw
+   76  su 
+   77  ifconfig
+   78  jobs
+   79  clear
+   80  pin
+   81  vlc
+   82  clear
+   83  jobs 
+   84  clear
+   85  ps
+   86  vlc
+   87  clear
+   88  ps
+   89  kill 3396
+   90  ps
+   91  clear
+   92  tree
+   93  tree Downloads/
+   94  tree Documents/
+   95  clear
+   96  jobs 
+   97  bg %1
+   98  jobs 
+   99  ping localhost 
+  100  jobs 
+  101  bg %2
+  102  jobs
+  103  clear
+  104  ping localhost > /dev/null &
+  105  jobs 
+  106  clear
+  107  jobs 
+  108  vlc &
+  109  clear
+  110  jobs 
+  111  clear
+  112  jobs
+  113  kill %1
+  114  jobs
+  115  kill %2
+  116  clear
+  117  jobs 
+  118  clear
+  119  ping localhost > /dev/null &
+  120  w
+  121  lsof
+  122  clear
+  123  free
+  124  free -g
+  125  clear
+  126  free -g
+  127  clear
+  128  apt-get update 
+  129  clear
+  130  apt-get update 
+  131  clear
+  132  apt-get install nethogs
+  133  su
+  134  tree
+  135  cd /
+  136  pwd
+  137  tree
+  138  clear
+  139  cd
+  140  pwd
+  141  clear
+  142  ech Documents/
+  143  clear
+  144  ll
+  145  clear
+  146  tree
+  147  clear
+  148  lscpu
+  149  clear
+  150  exit 
+  151  ll
+  152  lscpu
+  153  clear
+  154  tree
+  155  clear
+  156  python
+  157  clear
+  158  test.py
+  159  ll
+  160  clear
+  161  tree
+  162  clear
+  163  python
+  164  clear
+  165  python
+  166  clear
+  167  exit 
+  168  pwd
+  169  cd
+  170  pwd
+  171  clear
+  172  python
+  173  clear
+  174  cd ..
+  175  pwd
+  176  clear
+  177  ls
+  178  cd
+  179  ls
+  180  cat test.py.odt 
+  181  62;ccl
+  182  clear
+  183  pwd
+  184  clear
+  185  w
+  186  clear
+  187  whoami
+  188  who
+  189  clear
+  190  mailx mrkaymp@gmail.com
+  191  clear
+  192  cd 
+  193  pw
+  194  pwd
+  195  clear
+  196  cd /
+  197  pwd
+  198  ll
+  199  clear
+  200  cd root/
+  201  su -
+  202  clear
+  203  ll
+  204  cd tmp/
+  205  ll
+  206  clear
+  207  cd
+  208  pwd
+  209  ll /etc/passwd
+  210  CL
+  211  clear
+  212  pwd
+  213  cd /
+  214  clear
+  215  pwd
+  216  ll
+  217  cd root/
+  218  clear
+  219  cat etc/passwd
+  220  clear
+  221  cd
+  222  cat /etc/passwd | roo
+  223  cat /etc/passwd | grep root
+  224  cat /etc/passwd | grep karabo
+  225  clear
+  226  ll
+  227  clear
+  228  man source
+  229  type source
+  230  help source
+  231  clear
+  232  ll
+  233  clear
+  234  cat .bashrc 
+  235  clear
+  236  cat .bashrc | more 
+  237  clear
+  238  help grep
+  239  man grep
+  240  clear
+  241  dig google.com
+  242  clear
+  243  traceroute google.com
+  244  traceroute6 google.com
+  245  clear
+  246  ll /etc/sudoers
+  247  cat /etc/sudoers
+  248  id
+  249  clear
+  250  who
+  251  w
+  252  clear
+  253  cd /var/log/
+  254  ll
+  255  ll | more
+  256  clear
+  257  cd
+  258  top
+  259  clear
+  260  ip a
+  261  clear
+  262  cd /
+  263  ll
+  264  cd media/
+  265  ll
+  266  cd karabo/
+  267  ll
+  268  clear
+  269  cd
+  270  ll
+  271  cd Documents/
+  272  ll
+  273  cd Linux\ Fundamentals\ for\ Engineers/
+  274  ll
+  275  cat 1
+  276  ll 5.\ Linux\ Software\ Architecture.mp4 
+  277  cat 5.\ Linux\ Software\ Architecture.mp4 
+  278  62;c62;c62;c62;c62;ccl
+  279  clear
+  280  ll
+  281  clear
+  282  cd
+  283  id
+  284  uname
+  285  uname -a
+  286  ifconfig 
+  287  lshw
+  288  clear
+  289  sudo lshw
+  290  clear
+  291  sudo lshw | more
+  292  clear
+  293  typecurl
+  294  type curl
+  295  clear
+  296  man curl 
+  297  top
+  298  clear
+  299  top | grep vlc
+  300  clear
+  301  top
+  302  clear
+  303  cat /etc/network/icl
+  304  clear
+  305  su-
+  306  su -
+  307  clear
+  308  su -
+  309  clear
+  310  who
+  311  w
+  312  clear
+  313  sudo /etc/shadow
+  314  ll /etc/
+  315  clear
+  316  cat /etc/passwd
+  317  clear
+  318  cd ..
+  319  ll
+  320  cd root
+  321  cd ..
+  322  ll root/
+  323  clear
+  324  sudo passwd root
+  325  su -
+  326  cd /
+  327  ll
+  328  clear
+  329  cd
+  330  cd ..
+  331  ll
+  332  clear
+  333  cd
+  334  su -
+  335  clear
+  336  shutdown now
+  337  cat /etc/
+  338  su -
+  339  cd /
+  340  ll
+  341  ll etc/
+  342  \
+  343  clear
+  344  hwinfo
+  345  clear
+  346  cat proc/net/
+  347  ll proc/net/
+  348  cat proc/net/dev
+  349  clear
+  350  ll etc/networks
+  351  cat etc/networks
+  352  ll etc/networks
+  353  ll etc/network
+  354  ll etc/network/interfaces
+  355  cat etc/network/interfaces
+  356  ll etc/network/interfaces.d/
+  357  clear
+  358  cat etc/NetworkManager/system-connections/
+  359  cat etc/NetworkManager/system-connections/HUAWEI-B315-2CD7 
+  360  su -
+  361  shutdown now
+  362  uptime 
+  363  w
+  364  da
+  365  date 
+  366  clear
+  367  whereis w
+  368  which w
+  369  clear
+  370  us -
+  371  clear
+  372  su -
+  373  clear
+  374  ll
+  375  tree
+  376  tree | more
+  377  clear
+  378  su 
+  379  su
+  380  clear
+  381  exit 
+  382  cat /proc/meminfo 
+  383  cat /proc/meminfo | more
+  384  cat /proc/meminfo -g| more
+  385  cat /proc/meminfo -g | more
+  386  clear
+  387  cat /proc/meminfo 
+  388  clear
+  389  cat /proc/devices 
+  390  cat /proc/devices | more
+  391  clear
+  392  cat /proc/1/cmdline 
+  393  cat /proc/1/cmdline ; echo
+  394  cl
+  395  clear
+  396  echo
+  397  clear
+  398  ps
+  399  ps -p 1
+  400  jobs
+  401  clear
+  402  ping localhost > /dev/null &
+  403  jobs
+  404  ping localhost > /dev/null &
+  405  jobs
+  406  ping localhost > /dev/null &
+  407  jobs
+  408  clear
+  409  fg %1
+  410  clear
+  411  jobs
+  412  fg %2
+  413  jobs
+  414  clear
+  415  jobs
+  416  kill %3
+  417  jobs
+  418  top
+  419  clear
+  420  jobs
+  421  fg %2
+  422  clear
+  423  jobs
+  424  bg %4
+  425  jobs
+  426  ps
+  427  top
+  428  clear
+  429  ps
+  430  top
+  431  clear
+  432  ps
+  433  ps -e
+  434  clear
+  435  ps
+  436  jobs
+  437  ping localhost > /dev/null &
+  438  clear
+  439  jobs
+  440  ps
+  441  kill 2864
+  442  jobs
+  443  ps
+  444  clear
+  445  cd /var/log/
+  446  ll
+  447  clear
+  448  ll | more
+  449  cat faillog 
+  450  clear
+  451  exit 
+  452  pwd
+  453  ll
+  454  touch where
+  455  ll
+  456  clear
+  457  ll
+  458  rm where 
+  459  cl
+  460  clear
+  461  cat test.py.odt 
+  462  62;c
+  463  clear
+  464  rm test.py.odt 
+  465  clear
+  466  ll
+  467  cd Documents/
+  468  ll
+  469  cd ..
+  470  cd dow
+  471  clear
+  472  pwd
+  473  cd Downloads/
+  474  ll
+  475  cd Limited\ Power\ of\ Attorney_files/
+  476  ll
+  477  clear
+  478  cd
+  479  clear
+  480  exit 
+  481  su
+  482  exit 
+  483  lsb_release -a
+  484  uname -m
+  485  pkg update
+  486  clear
+  487  sudo apt-get update 
+  488  clear
+  489  sudo apt-get update 
+  490  clear
+  491  ls
+  492  su 
+  493  git version
+  494  su 
+  495  ls
+  496  cd Music/
+  497  ls
+  498  clear
+  499  cd ~
+  500  pwd
+  501  cd ..
+  502  ls
+  503  cd
+  504  cd ~
+  505  clear
+  506  pwd
+  507  ls
+  508  cat examples.desktop 
+  509  clear
+  510  les examples.desktop 
+  511  less examples.desktop 
+  512  clear
+  513  touch test.txt
+  514  ls
+  515  ls -l test.txt 
+  516  wc test.txt 
+  517  echo "add another line" >> test.txt 
+  518  clear
+  519  ls -l test.txt 
+  520  wc test.txt 
+  521  less test.txt 
+  522  clear
+  523  wc -w test.txt 
+  524  wc -b test.txt 
+  525  clear
+  526  wc -h test.txt 
+  527  clear
+  528  su kingkong
+  529  su
+  530  clear
+  531  git version
+  532  su
+  533  clear
+  534  pwd
+  535  cd /home/
+  536  ls
+  537  cd karabo/
+  538  ls
+  539  cd Documents/
+  540  cd
+  541  cd /h
+  542  cd /home/
+  543  cd /
+  544  ls
+  545  ls var/
+  546  ls var/run
+  547  clear
+  548  cd
+  549  ls /
+  550  cd ../../var/run
+  551  ls
+  552  cd
+  553  clear
+  554  ls
+  555  cat test.txt 
+  556  clear
+  557  mv test.txt ./tesst.txt
+  558  ls
+  559  mv test.txt .tesst.txt
+  560  mv tesst.txt .test.txt
+  561  clear
+  562  ls
+  563  touch taste.txt
+  564  ls
+  565  ls Downloads/
+  566  ls Public/
+  567  clear
+  568  mv taste.txt Public/
+  569  ls Public/
+  570  clear
+  571  mv Public/taste.txt Public/tastae.txt
+  572  ls Public/
+  573  clear
+  574  ls
+  575  echo "is it possible?" > new_doc.txt
+  576  ls
+  577  cat new_doc.txt 
+  578  echo "it is possible" >> new_doc.txt 
+  579  cat new_doc.txt 
+  580  clear
+  581  less new_doc.txt 
+  582  nano new_doc.txt 
+  583  clear
+  584  nano new_doc.txt 
+  585  ls
+  586  cd Desktop/
+  587  ls
+  588  ls -l
+  589  wc 1.
+  590  wc 1.\ MY\ HISTORY.md 
+  591  wc -w 1.\ MY\ HISTORY.md 
+  592  su
+  593  cd Desktop/
+  594  ls
+  595  wc 1.\ MY\ HISTORY.md 
+  596  git vrsion
+  597  git version
+  598  clear
+  599  wc 1.\ MY\ HISTORY.md 
+  600  clear
+  601  cd
+  602  su
+  603  git help commit
+  604  git help commit -m
+  605  mkdir git-basic-exercises
+  606  ls
+  607  cd git-basic-exercises/
+  608  ls -a
+  609  ls
+  610  clear
+  611  ls -a
+  612  clear
+  613  git init
+  614  ls -a
+  615  git status
+  616  touch README.md
+  617  ls -a
+  618  git status
+  619  git log
+  620  clear
+  621  git log
+  622  git add README.md 
+  623  git commit -m
+  624  git commit -m "initial commit"
+  625  git config --global user.name "Karabo"
+  626  git config --global user.email "mrkaymp@gmail.com"
+  627  git commit -m "initial commit"
+  628  clear
+  629  git log
+  630  git status 
+  631  clear
+  632  nano README.md 
+  633  git log
+  634  git status
+  635  git add README.md 
+  636  git commit -m "second commit"
+  637  git log
+  638  clear
+  639  nano README.md 
+  640  git stats
+  641  clear
+  642  git log
+  643  clear
+  644  nano README.md 
+  645  clear
+  646  git status
+  647  git add README.md 
+  648  git commit -m "the third commit baby"
+  649  clear
+  650  git log
+  651  clear
+  652  cd
+  653  clear
+  654  exit
+  655  ls
+  656  cd git-basic-exercises/
+  657  git config --global user.name "Karabo"
+  658  git config --global user.email "mrkaymp@gmail.com"
+  659  clear
+  660  git log 
+  661  git checkout ee115479bdf7e679cfd3fed3aa6f6e33e238a017
+  662  clear
+  663  git checkout ee115479bdf7e679cfd3fed3aa6f6e33e238a017
+  664  git checkout master 
+  665  clear
+  666  git branch 
+  667  clear
+  668  git branch -a
+  669  git branch -r
+  670  clear
+  671  git branch milkshake-flavours
+  672  git branch 
+  673  git checkout milkshake-flavours 
+  674  git branch 
+  675  clear
+  676  nano milkshakes.md
+  677  git  status 
+  678  git commit -m "added initial flavours"
+  679  clear
+  680  git add milkshakes.md 
+  681  git commit -m "added initial flavours"
+  682  clear
+  683  git log 
+  684  git checkout master 
+  685  git log
+  686  clear
+  687  git log
+  688  git checkout milkshake-flavours 
+  689  git log
+  690  clear
+  691  git branch 
+  692  git checkout master 
+  693  git branch 
+  694  git branch history
+  695  git checkout history 
+  696  git log 
+  697  git branch 
+  698  clear
+  699  History > history.txt
+  700  history > history.txt
+  701  ls
+  702  git add history.txt 
+  703  git commit -m "added history"
+  704  git log
+  705  clear
+  706  git checkout milkshake-flavours 
+  707  git branch 
+  708  clear
+  709  git log 
+  710  clear
+  711  nano README.md 
+  712  git checkout history 
+  713  cat README.md 
+  714  git checkout master 
+  715  git log 
+  716  cat README.md 
+  717  git checkout 
+  718  git checkout history 
+  719  cat README.md 
+  720  clear
+  721  git checkout milkshake-flavours 
+  722  git log 
+  723  nano README.md 
+  724  git add README.md 
+  725  git commit -m "boggered up modifications"
+  726  git log 
+  727  git checkout master 
+  728  cat README.md 
+  729  git log 
+  730  git checkout history 
+  731  cat README.md 
+  732  git checkout milkshake-flavours 
+  733  cat README.md 
+  734  clear
+  735  git checkout history 
+  736  rm README.md 
+  737  echo "booya" README.md
+  738  cat R
+  739  ls
+  740  echo "booya" > README.md
+  741  ls
+  742  cat README.md 
+  743  clear
+  744  git add README.md 
+  745  git commit -m "rewrote readme file"
+  746  git checkout milkshake-flavours 
+  747  git log
+  748  clear
+  749  git checkout master 
+  750  git merge milkshake-flavours 
+  751  ls
+  752  git log 
+  753  clear
+  754  git checkout master 
+  755  git remote add origin https://github.com/Karabo20/git-basic-exercises.git
+  756  git branch -M master
+  757  git push -u origin master
+  758  clear
+  759  git remote add origin https://github.com/Karabo20/git-basic-exercises.git
+  760  git branch -M milkshake-flavours 
+  761  git push -u milkshakes.md
+  762  clear
+  763  git push -u milkshakes.md
+  764  clear
+  765  git checkout milkshake-flavours 
+  766  git branch -M milkshake-flavours 
+  767  git push -u milkshakes.md
+  768  git push -u origin milkshake-flavours 
+  769  clear
+  770  git checkout history 
+  771  git checkout master 
+  772  git branch -M history 
+  773  git push -u origin history 
+  774  cd
+  775  clear
+  776  ls
+  777  mv git-2.7.4 UMUZI\ LEARNING/
+  778  cd UMUZI\ LEARNING/
+  779  ls
+  780  cd GIT/
+  781  ls
+  782  cd
+  783  su 
+  784  clear
+  785  ls
+  786  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  787  cd a-repo-to-clone/
+  788  clear
+  789  ls
+  790  git branch 
+  791  git log 
+  792  cat README.md 
+  793  clear
+  794  git branch -a
+  795  ls
+  796  cd ..
+  797  ls
+  798  cd a-repo-to-clone/
+  799  git branch 
+  800  git branch project/git-basic-exercises
+  801  git branch 
+  802  ls
+  803  clear
+  804  cd
+  805  cd git-basic-exercises/
+  806  git log 
+  807  clear
+  808  git branch 
+  809  cd
+  810  clear
+  811  ls
+  812  cd git-basic-exercises/
+  813  ls
+  814  touch ignore-me.db
+  815  git status 
+  816  nano .gitignore
+  817  git status 
+  818  python
+  819  python3
+  820  man git
+  821  man git branch
+  822  clear
+  823  mkdir circles
+  824  cd circles/
+  825  git init going-circles
+  826  ls
+  827  clear
+  828  s
+  829  man git checkout
+  830  man git checkout -M
+  831  man git branch -M
+  832  clear
+  833  ls
+  834  cd circles/
+  835  man git branch -m
+  836  git checkout -b prob/1
+  837  git config --global user.name "Karabo"
+  838  git config --global user.email "mrkaymp@gmail.com"
+  839  git branch 
+  840  git branch -M main
+  841  clear
+  842  git init
+  843  git branch -M main
+  844  git branch 
+  845  git branch -M main
+  846  clear
+  847  git init circles
+  848  cd circles/
+  849  cd
+  850  ls
+  851  cd git-basic-exercises/
+  852  git branch 
+  853  cd 
+  854  clear
+  855  rmdir -r circles/
+  856  rmdir -R circles/
+  857  rmdir --help
+  858  rmdir -p circles/
+  859  rmdir -P circles/
+  860  clear
+  861  rm -r circles/
+  862  ls
+  863  mkdir circles
+  864  rm circles/
+  865  rmdir circles/
+  866  mkdir circles
+  867  rm -r circles/
+  868  clear
+  869  git init circles
+  870  cd circles/
+  871  ls
+  872  clear
+  873  ls -a
+  874  clear
+  875  git branch 
+  876  git config --global --list
+  877  git checkout -b prob/2
+  878  man git remote
+  879  git remote
+  880  clear
+  881  git branch 
+  882  git checkout -b prob/2
+  883  git branch 
+  884  git checkout 
+  885  man git checkout 
+  886  clear
+  887  git branch -M main
+  888  cd
+  889  clear
+  890  cd circles/
+  891  git branch -M main
+  892  it config --list --system
+  893  git config --system 
+  894  clear
+  895  git config --global
+  896  git config --local
+  897  git config --list 
+  898  clear
+  899  git config --list --local 
+  900  git config --list --system
+  901  clear
+  902  git config --global 
+  903  clear
+  904  cd git-basic-exercises/
+  905  git branch -a
+  906  git branch 
+  907  git branch -r
+  908  clear
+  909  git checkout -b project/gi-basic-exercises
+  910  cd checkout master
+  911  git branch
+  912  git branch -d
+  913  git branch -d project/gi-basic-exercises 
+  914  git checkout history 
+  915  git branch -d project/gi-basic-exercises 
+  916  clear
+  917  git checkout -b project/git-basic-exercises
+  918  cd
+  919  ls
+  920  mkdir this-will-be-another-repo
+  921  cd this-will-be-another-repo/
+  922  git init
+  923  touch README.md
+  924  git add README.md 
+  925  git commit -m "Another repo for practice"
+  926  clear
+  927  cd
+  928  cd git-basic-exercises/
+  929  ls
+  930  git status
+  931  nano .gitignore 
+  932  mkdir large-directory-that-should-be-local-only
+  933  cd large-directory-that-should-be-local-only/
+  934  touch readme.md
+  935  nano readme.md 
+  936  ll readme.md 
+  937  clear
+  938  cd ..
+  939  cd large-directory-that-should-be-local-only/
+  940  cd ..
+  941  clear
+  942  git status
+  943  git add .gitignore 
+  944  git commit -m "added .gitignore"
+  945  git push origin 
+  946  git push --set-upstream origin project/git-basic-exercises
+  947  clear
+  948  git branch 
+  949  git checkout history 
+  950  ls
+  951  git status
+  952  clear
+  953  git branch 
+  954  git status
+  955  ls
+  956  git ls-files
+  957  git branch 
+  958  git log
+  959  clear
+  960  git branch 
+  961  git list-files
+  962  git list-file
+  963  git ls-files
+  964  cat README.md 
+  965  clear
+  966  git pull origin
+  967  git branch
+  968  git log
+  969  git checkout history 
+  970  clear
+  971  git branch 
+  972  git checkout -b master
+  973  git pull origin master
+  974  git brach
+  975  git branch
+  976  git branch ls-file
+  977  git branch
+  978  git branch rm ls-file 
+  979  clear
+  980  git ls-files
+  981  clear
+  982  git checkout history 
+  983  git ls-files
+  984  history > history.txt
